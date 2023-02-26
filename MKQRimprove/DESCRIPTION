@@ -1,0 +1,12 @@
+Package: MKQRimprove
+Type: Package
+Title: Improved algorithms for MKQR model
+Version: 0.1.0
+Authors@R: c(person("Yu", "Yue", role = c("aut","cre"), email = "yy13962772798@stu.xjtu.edu.cn"))
+Maintainer: Yu Yue <yy13962772798@stu.xjtu.edu.cn>
+Description: Some improved algorithms of estimating the multi-kink quantile regression
+Depends: R (>= 3.5.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2

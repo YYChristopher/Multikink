@@ -1,0 +1,13 @@
+Package: MKQRimprove
+Type: Package
+Title: Some improved algorithms of estimating the multi-kink quantile regression
+Version: 1.1.0
+Authors@R: c(
+    person("Yue", "Yu", email = "yy13962772798@stu.xjtu.edu.cn", 
+    )
+Maintainer: Yu Yue <yy13962772798@stu.xjtu.edu.cn>
+Description: Some improved algorithms of estimating the multi-kink quantile regression
+License: GPL (>= 2.0)
+LazyData: TRUE 
+RoxygenNote: 5.0.1
+Depends: R (>= 3.1.0), quantreg

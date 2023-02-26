@@ -1,0 +1,11 @@
+exportPattern("^[[:alpha:]]+")
+
+export(BentCableIter)
+export(BentCableVarEst)
+export(BSQregIter)
+export(BSQregVarEst)
+export(ISQregIter)
+export(LinearPSIIter)
+export(MKsimdat)
+export(SmoothIter)
+export(SmoothVarEst)
